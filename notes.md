@@ -13,3 +13,8 @@ James Jones JJI 350C 72x350
 
 50x25 battens
 400 ctrs
+
+## Roof
+
+Do we need ridge beams?  Purlins?
+Overhang sizes
