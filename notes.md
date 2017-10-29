@@ -18,3 +18,12 @@ James Jones JJI 350C 72x350
 
 Do we need ridge beams?  Purlins?
 Overhang sizes
+
+# Stairs
+
+Matching design from stairbox.com
+
+Going 235mm
+Rise 180mm
+3 Winder
+3 Stairs bottom
