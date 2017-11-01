@@ -19,7 +19,7 @@ James Jones JJI 350C 72x350
 Do we need ridge beams?  Purlins?
 Overhang sizes
 
-# Stairs
+## Stairs
 
 Matching design from stairbox.com
 
@@ -27,3 +27,9 @@ Going 235mm
 Rise 180mm
 3 Winder
 3 Stairs bottom
+
+## Windows
+
+Internorm HF310
+Frame ~114x114mm
+Glazing 44mm
